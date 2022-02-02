@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9834D31727AB2C5E00B993EE /* secondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9834D31627AB2C5E00B993EE /* secondViewController.swift */; };
 		983FB41B27A47F2900DE82CF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 983FB41A27A47F2900DE82CF /* AppDelegate.swift */; };
 		983FB41D27A47F2900DE82CF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 983FB41C27A47F2900DE82CF /* SceneDelegate.swift */; };
 		983FB41F27A47F2900DE82CF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 983FB41E27A47F2900DE82CF /* ViewController.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9834D31627AB2C5E00B993EE /* secondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondViewController.swift; sourceTree = "<group>"; };
 		983FB41727A47F2900DE82CF /* HackwichTwo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HackwichTwo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		983FB41A27A47F2900DE82CF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		983FB41C27A47F2900DE82CF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				983FB41C27A47F2900DE82CF /* SceneDelegate.swift */,
 				983FB41E27A47F2900DE82CF /* ViewController.swift */,
 				983FB42027A47F2900DE82CF /* Main.storyboard */,
+				9834D31627AB2C5E00B993EE /* secondViewController.swift */,
 				983FB42327A47F2F00DE82CF /* Assets.xcassets */,
 				983FB42527A47F2F00DE82CF /* LaunchScreen.storyboard */,
 				983FB42827A47F2F00DE82CF /* Info.plist */,
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9834D31727AB2C5E00B993EE /* secondViewController.swift in Sources */,
 				983FB41F27A47F2900DE82CF /* ViewController.swift in Sources */,
 				983FB41B27A47F2900DE82CF /* AppDelegate.swift in Sources */,
 				983FB41D27A47F2900DE82CF /* SceneDelegate.swift in Sources */,
