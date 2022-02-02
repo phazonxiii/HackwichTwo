@@ -20,5 +20,8 @@ class ViewController: UIViewController {
         print("Hello World")
     }
     
+    @IBAction func nowPushMeButtonPressed(_ sender: Any) {
+        print("Why, thank you! You're so kind! I think I've got this.")
+    }
 }
 
