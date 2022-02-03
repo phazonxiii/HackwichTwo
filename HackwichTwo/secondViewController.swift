@@ -9,7 +9,9 @@
 import UIKit
 
 class secondViewController: UIViewController {
-
+   
+    @IBOutlet var firstLabel: UILabel!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
@@ -33,5 +35,7 @@ class secondViewController: UIViewController {
         //want to change BG color
         //to blue
         self.view.backgroundColor = UIColor.blue
+        
+        var textColor: UIColor! {UIColor.green}
     }
 }
