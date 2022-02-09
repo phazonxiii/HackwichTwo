@@ -36,6 +36,8 @@ class secondViewController: UIViewController {
         //to blue
         self.view.backgroundColor = UIColor.blue
         
-        var textColor: UIColor! {UIColor.green}
+        self.firstLabel.text = "This is my stringy label"
+        
+        self.firstLabel.textColor = UIColor.purple
     }
 }
